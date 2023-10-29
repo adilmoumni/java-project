@@ -23,3 +23,6 @@ For a structured progression, I'll be following this [guide](https://bootcamp.ux
 
 ### [Strudent starter api](/student-starter-api/)
  Contained within the  `student-starter-api`, directory is a fundamental Java Spring Boot application. This application facilitates the use of APIs (GET, PUT, DELETE, POST) related to student data. For more details, kindly refer to the [README](/student-starter-api/README.md)
+
+# I use this road map for Java
+<img width="1076" alt="Screenshot 2023-10-29 at 11 42 23 PM" src="https://github.com/adilmoumni/java-project/assets/49393758/dca6f013-2cef-4c71-9e2b-84e1ddbc02df">
